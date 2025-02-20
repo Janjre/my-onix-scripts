@@ -11,7 +11,7 @@ A port of the java mod for onix. Uses modern commands
 Converts a png to a minecraft build using a colour -> block mapping
 
 ## Note block song maker
-Work in progress. Turns a midi file into a note block song by mapping midi instruments to note blocks.
+Work in progress. Turns a midi file into a note block song by mapping midi instruments to note blocks. This is not included as it is not working right now .
 
 ## Easy commands
 Lets you run commands on an entity selection easily not yet finnished
