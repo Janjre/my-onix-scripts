@@ -16,7 +16,8 @@ Work in progress. Turns a midi file into a note block song by mapping midi instr
 ## Easy commands
 Lets you run commands on an entity selection easily not yet finnished
 
-##[Linear transformations](https://www.youtube.com/watch?v=kYB8IZa5AuE&t=222s&pp=ygUaM2IxYiBsaW5lYXIgdHJhbnNmb3JtYXRpb24%3D)
+##Linear transformations 
+(see https://www.youtube.com/watch?v=kYB8IZa5AuE&t=222s&pp=ygUaM2IxYiBsaW5lYXIgdHJhbnNmb3JtYXRpb24%3D)
 Right now it is set up to rotate an area.
 https://www.youtube.com/watch?v=5-JexSvqPnI&ab_channel=DaPenguinCoding
 
